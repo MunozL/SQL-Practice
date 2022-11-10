@@ -61,9 +61,3 @@ JOIN progress AS p
 LIMIT 15;
  
 
-What did you like about this project?
-I like that we were able to put in practice what we learned and challenge ourselves 
-What did you struggle with in this project?
-I struggled with  part 4. I don't think I got it 100% right but was able to get some of it
-What would make your experience with this assessment better?
-Having more knowledge about JOINS 
